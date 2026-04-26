@@ -1,0 +1,31 @@
+# Environments
+venv/
+.venv/
+env/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# GitExplorer Specific
+data
+*.log
+*.token
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
