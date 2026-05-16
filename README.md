@@ -4,11 +4,6 @@
 
 ### Git-based AI Analytics and Summarization Agent
 
-![Stars](https://img.shields.io/github/stars/your-username/gitexplorer?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/your-username/gitexplorer?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/your-username/gitexplorer?style=for-the-badge)
-![License](https://img.shields.io/github/license/your-username/gitexplorer?style=for-the-badge)
-
 ---
 
 ## 🌐 About the Project
